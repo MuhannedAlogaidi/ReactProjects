@@ -1,3 +1,20 @@
+##About this course
+QUICKEST way to understand and get up and running with Redux Sagas and start implementing in React and Redux projects.
+
+Redux saga is a library that aims to make application side effects, like data fetching / calling an API, easier to manage, more efficient to execute, and better at handling failures.
+
+Redux saga is an impressively clean way to separate logic to call API endpoints and update your redux state based on redux actions. The redux saga library's sagas are implemented as Generator functions that yield objects to the redux-saga middleware. The yielded objects are a kind of instruction to be interpreted by the middleware. When a Promise is yielded to the middleware, the middleware will suspend the Saga until the Promise completes. Once the Promise is resolved, the middleware will resume the Saga, executing code until the next yield. 
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
