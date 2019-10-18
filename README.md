@@ -1,6 +1,8 @@
 # ReactProjects
 
 ## Introduction
-This reposiotry respresent a complete or mini projects for React framework .each folder represent idea or project or may be diffrent technology use in with React like webapi or GMAP
+This reposiotry respresent a collection of complete projects or refernce for use case(s) related to `React`, and distrubuted among folders.sometimes represent an idea or example seen in work or implemented by other developers.
+
+
 * bullet point
 * bullet point
