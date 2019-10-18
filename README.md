@@ -11,6 +11,10 @@ This reposiotry respresent a collection of complete projects or examples or may 
 
 - **`Redux`**: is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.
 
+- **`Redux-saga`**: is a redux middleware library, that is designed to make handling side effects in your redux app nice and simple. It achieves this by leveraging an ES6 feature called Generators, allowing us to write asynchronous code that looks synchronous, and is very easy to test.
+
+
+
 
 
 * bullet point
