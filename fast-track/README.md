@@ -1,4 +1,4 @@
-##About this course
+## About this course
 QUICKEST way to understand and get up and running with Redux Sagas and start implementing in React and Redux projects.
 
 Redux saga is a library that aims to make application side effects, like data fetching / calling an API, easier to manage, more efficient to execute, and better at handling failures.
