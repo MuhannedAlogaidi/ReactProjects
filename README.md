@@ -5,7 +5,7 @@ This reposiotry respresent a collection of complete projects or examples or may 
 
 ### Technologeis covered
 
-####**Web development**
+#### **Web development**
 
 - **`React`**: is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded
 
@@ -13,7 +13,7 @@ This reposiotry respresent a collection of complete projects or examples or may 
 
 - **`Redux-saga`**: is a redux middleware library, that is designed to make handling side effects in your redux app nice and simple. It achieves this by leveraging an ES6 feature called Generators, allowing us to write asynchronous code that looks synchronous, and is very easy to test.
 
-####**Test tools**
+#### **Test tools**
 
 - **`Jest`**: is a JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node.js, React, Angular and Vue.js. It aims to work out of the box and config free
 
