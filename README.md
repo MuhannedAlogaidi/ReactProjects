@@ -13,6 +13,15 @@ This reposiotry respresent a collection of complete projects or examples or may 
 
 - **`Redux-saga`**: is a redux middleware library, that is designed to make handling side effects in your redux app nice and simple. It achieves this by leveraging an ES6 feature called Generators, allowing us to write asynchronous code that looks synchronous, and is very easy to test.
 
+** **Test tools**
+
+- **`Jest`**: is a JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node.js, React, Angular and Vue.js. It aims to work out of the box and config free
+
+- **`Enzyme`**: is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+
+Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for DOM manipulation and traversal.
+
+
 
 
 
